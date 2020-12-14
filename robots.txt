@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://soybean.github.io/sitemap.xml

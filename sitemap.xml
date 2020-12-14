@@ -1,40 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml-stylesheet type="text/xsl" href="http://soybean.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.org/post/%E6%8A%A5%E5%91%8A/20201214-%E4%BC%9A%E8%AE%AE%E6%8A%A5%E5%91%8A/</loc>
+    <loc>http://soybean.github.io/post/%E6%8A%A5%E5%91%8A/20201214-%E4%BC%9A%E8%AE%AE%E6%8A%A5%E5%91%8A/</loc>
     <lastmod>2020-12-14T14:39:28+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://soybean.github.io/categories/</loc>
     <lastmod>2020-12-14T14:39:28+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/meeting/</loc>
+    <loc>http://soybean.github.io/</loc>
     <lastmod>2020-12-14T14:39:28+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://soybean.github.io/tags/meeting/</loc>
     <lastmod>2020-12-14T14:39:28+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>http://soybean.github.io/post/</loc>
     <lastmod>2020-12-14T14:39:28+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://soybean.github.io/tags/</loc>
     <lastmod>2020-12-14T14:39:28+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/%E4%BC%9A%E8%AE%AE%E6%8A%A5%E5%91%8A/</loc>
+    <loc>http://soybean.github.io/categories/%E4%BC%9A%E8%AE%AE%E6%8A%A5%E5%91%8A/</loc>
     <lastmod>2020-12-14T14:39:28+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
