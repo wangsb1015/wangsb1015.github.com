@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Even - A super concise theme for Hugo</title>
-    <link>http://wangsb.github.io/post/</link>
+    <link>http://localhost:1313/post/</link>
     <description>Recent content in Posts on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Dec 2020 14:39:28 +0800</lastBuildDate><atom:link href="http://wangsb.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Dec 2020 14:39:28 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>20201214 会议报告</title>
-      <link>http://wangsb.github.io/post/%E6%8A%A5%E5%91%8A/20201214-%E4%BC%9A%E8%AE%AE%E6%8A%A5%E5%91%8A/</link>
+      <link>http://localhost:1313/post/%E6%8A%A5%E5%91%8A/20201214-%E4%BC%9A%E8%AE%AE%E6%8A%A5%E5%91%8A/</link>
       <pubDate>Mon, 14 Dec 2020 14:39:28 +0800</pubDate>
       
-      <guid>http://wangsb.github.io/post/%E6%8A%A5%E5%91%8A/20201214-%E4%BC%9A%E8%AE%AE%E6%8A%A5%E5%91%8A/</guid>
+      <guid>http://localhost:1313/post/%E6%8A%A5%E5%91%8A/20201214-%E4%BC%9A%E8%AE%AE%E6%8A%A5%E5%91%8A/</guid>
       <description>专题一 郴州、湘西、玉溪（郑州院 周会娜） 差异代谢物； 产地差异是代谢物差异的主要因素； 湘西烟叶叶位差异最明显； 郴州烟叶代谢物叶位差异最小； 代谢物</description>
     </item>
     
