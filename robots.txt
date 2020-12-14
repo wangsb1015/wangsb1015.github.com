@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://soybean.github.io/sitemap.xml
+Sitemap: http://wangsb.github.io/sitemap.xml
