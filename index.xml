@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Dec 2020 14:39:28 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20201214 会议报告</title>
+      <link>http://example.org/post/%E6%8A%A5%E5%91%8A/20201214-%E4%BC%9A%E8%AE%AE%E6%8A%A5%E5%91%8A/</link>
+      <pubDate>Mon, 14 Dec 2020 14:39:28 +0800</pubDate>
+      
+      <guid>http://example.org/post/%E6%8A%A5%E5%91%8A/20201214-%E4%BC%9A%E8%AE%AE%E6%8A%A5%E5%91%8A/</guid>
+      <description>专题一 郴州、湘西、玉溪（郑州院 周会娜） 差异代谢物；
+ 产地差异是代谢物差异的主要因素； 湘西烟叶叶位差异最明显； 郴州烟叶代谢物叶位差异最小； 代谢物通路富集  风格物质筛选
+ 鲜烟叶定性物质666个 656 WGCN随生长发育的变化趋势 代谢通路的富集 随生长逐渐增加或降低的代谢物  烟叶在烘烤过程中的变化规律
+提问：  差异代谢物筛选的标准是什么？ 代谢物有或没有的差异？  专题二 核心种质资源（青州所 刘博士）  2639份中选出300份核心种质资源，GBS测序每个样本1.17G，2017 K326为参考； 53万tags，39万SNP建系统发育树、遗传结构分析； PCA、tree、300cluster获得核心种质的集合； 核心种质田间鉴定（湖南宁乡、四川西昌）;  </description>
+    </item>
+    
+  </channel>
+</rss>
