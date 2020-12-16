@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://localhost:1313/search/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/post/20201215-%E7%95%AA%E8%8C%84%E8%A5%BF%E7%BA%A2%E6%9F%BF%E7%BA%A2%E6%9E%A3/</loc>
     <lastmod>2020-12-15T19:42:39+08:00</lastmod>
     <changefreq>weekly</changefreq>
