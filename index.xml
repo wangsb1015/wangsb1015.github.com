@@ -25,5 +25,14 @@
       <description>方案1-DNA覆盖度： 覆盖度： 策略： 结果 物种 数据量 玉米 23M 红枣 547M 西红柿 667M 覆盖度 基因组 冬枣 西红柿 玉米 红枣 0.00625802 0.00510438 0.00149125 玉米 0.000546543 0.000319284 0.000103685 西红柿 0.00874353 0.00681728 0.00214094 覆盖度Q20</description>
     </item>
     
+    <item>
+      <title>20201215 番茄玉米红枣</title>
+      <link>http://localhost:1313/post/20201218/</link>
+      <pubDate>Tue, 15 Dec 2020 19:42:39 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/20201218/</guid>
+      <description>Crispr tools 脱靶搜索工具 CasOT: a genome-wide Cas9/gRNA off-target searching tool https://github.com/audy/mirror-casot.pl</description>
+    </item>
+    
   </channel>
 </rss>

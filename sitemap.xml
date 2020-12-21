@@ -15,6 +15,13 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/post/20201218/</loc>
+    <lastmod>2020-12-15T19:42:39+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2020-12-15T19:42:39+08:00</lastmod>
     <changefreq>weekly</changefreq>
